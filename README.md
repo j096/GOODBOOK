@@ -5,10 +5,6 @@
 <div>:green_book: 독후감도 작성하고 관련 사진을 찍어 저장할 수 있습니다.</div>
 
 
-## Download App
-<a href="https://play.google.com/store/apps/details?id=org.androidtown.goodbook">Google Play 스토어</a>
-
-
 ## GOODBOOK 의 4 가지 기능
 
 ### 1. 목표 달성하기
