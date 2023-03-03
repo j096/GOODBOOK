@@ -4,6 +4,29 @@
 <div>:seedling: 독서량 목표를 정하고 목표를 달성하여 나무를 키워보세요!</div>
 <div>:green_book: 독후감도 작성하고 관련 사진을 찍어 저장할 수 있습니다.</div>
 
+## 개발 팀원
+
+<table>
+<tr>
+<th>팀원</th>
+<td>이상아</td>
+<td>박예지</td>
+<td>윤지영</td>
+</tr>
+<tr>
+<th>github</th>
+<td>https://github.com/snaag</td>
+<td>https://github.com/yaejeePark</td>
+<td>https://github.com/j096</td>
+</tr>
+<tr>
+<th>역할</th>
+<td>SQLite 개발, 독후감 작성 기능 개발, 나무 키우기 UI/UX 개발</td>
+<td>독후감 통계 기능, 나무 키우기 UI/UX 개발</td>
+<td>네이버 OpenAPI 연동, 프래그맨트 설계 및 개발</td>
+</tr>
+</table>
+
 
 ## GOODBOOK 의 4 가지 기능
 
